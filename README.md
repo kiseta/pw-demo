@@ -17,10 +17,15 @@ You will need the following installed on your computer.
 
 
 ## Installation
-
-* `git clone <repository-url>` this repository
-* `cd pw-demo`
-* `npm install`
+```
+git clone https://github.com/kiseta/pw-demo.git
+```
+```
+cd pw-demo
+```
+```
+npm install
+```
 
 ## Running Playwright tests (runs headless by default)
 ```
