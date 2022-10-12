@@ -1,4 +1,0 @@
-{
-    "terminal.integrated.tabs.description": "${task}${separator}${local}${separator}${cwdFolder}",
-    "window.title": "${rootName}"
-}
